@@ -1,0 +1,12 @@
+{
+  "docwriter.style": "Auto-detect",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.maxTokenizationLineLength": 2500,
+    "javascript.suggest.enabled": true
+  }
+}

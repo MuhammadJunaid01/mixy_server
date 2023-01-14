@@ -37,7 +37,6 @@ app.use(bodyParser.json());
 
 //error handling
 app.use(errorHandle);
-
 //routes
 app.use(homeRoute);
 app.use("/api/auth", authRoute);
